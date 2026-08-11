@@ -21,13 +21,21 @@ My work combines technical exploration with a builder mindset: understand the pr
 
 ## Current Focus
 
-| Area | What I am exploring |
-| --- | --- |
-| **Machine Learning** | Building practical AI solutions that solve real-world problems. |
-| **Applied AI** | Building reliable, maintainable software through clean code and testing. |
-| **Software Engineering** | build plan code test and deploy |
-| **Developer Tools** | Building tools that streamline development, debugging, and automation. |
+Machine Learning
 
+Building practical AI solutions that solve real-world problems.
+
+Applied AI
+
+Building reliable, maintainable AI systems through clean code, testing, and thoughtful engineering.
+
+Software Engineering
+
+Plan, build, test, and deploy software that is reliable and maintainable.
+
+Developer Tools
+
+Building tools that streamline development, debugging, and automation.
 ## Featured Work
 
 | Project | Focus | Why it matters |
