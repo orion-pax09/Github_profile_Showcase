@@ -42,7 +42,7 @@ Building tools that streamline development, debugging, and automation.
 |---------|-------|-----------------|
 | [**AI Tutor**](https://github.com/orion-pax09/AI-Tutor-Multi-Agent-Learning-Assistant.git) | AI agents · APIs · Python | A Python AI learning assistant with specialized agents and tool integration. |
 | [**Discord Meme Bot**](https://github.com/orion-pax09/Discord_meme_bot.git) | Discord bots · APIs · Python | A Python Discord bot for automated memes, commands, and user interactions. |
-| [**FitTrack**](https://github.com/orion-pax09/FitTrack.git) | Web development · SQLite · JavaScript | A fitness tracking system for workouts, nutrition, BMI, and trainer-client management. |
+| [**FitTrack**](https://github.com/orion-pax09/FitTrack.git) | Web development · SQL · JavaScript | A fitness tracking system for workouts, nutrition, BMI, and trainer-client management. |
 
 ## Research Direction
 
