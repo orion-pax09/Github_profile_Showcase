@@ -1,67 +1,72 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Muhammad Hamza Khan",
+    "username": "orion-pax09",
+    "headline": "Machine learning and AI",
+    "affiliation": "Air university",
+    "location": "Islamabad, Pakistan",
+    "status": "Learning",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
+      "Software engineer building practical solutions with ML.",
       "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
     ]
   },
   "research": {
-    "primary": "AI Agents",
+    "primary": "Machine learning",
     "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "themes": "ML / AI / Software",
+    "narrative": "Agents / ML / Reliable Systems"
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Machine Learning",
+      "description": "Building practical AI solutions that solve real-world problems."
     },
     {
       "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "description": "Building reliable, maintainable software through clean code and testing."
+    },
+    {
+      "name": "Software Engineering",
+      "description": "build plan code test and deploy"
     },
     {
       "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "description": "Building tools that streamline development, debugging, and automation."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "AI tutor",
+      "url": "https://github.com/orion-pax09/AI-Tutor-Multi-Agent-Learning-Assistant.git",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "focus": "python json api",
+      "summary": "Python AI learning assistant with specialized agents and tools.",
+      "heroLabel": "AI learning assisstant"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "discord meme bot",
+      "url": "https://github.com/orion-pax09/Discord_meme_bot.git",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "python api",
+      "summary": "A Python Discord bot for automated memes, commands, and user interactions.",
+      "heroLabel": "discord bot"
     }
   ],
   "techStack": [
-    "TypeScript",
-    "Next.js",
-    "Python",
-    "PostgreSQL",
-    "Playwright"
+    "javascript",
+    "html",
+    "css",
+    "python",
+    "c++",
+    "sql"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "orion-pax09",
+      "url": "https://github.com/orion-pax09",
       "logo": "github",
       "color": "0B1220"
     }
@@ -73,5 +78,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Building software, learning, and shipping projects."
 }
