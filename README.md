@@ -49,9 +49,9 @@ Agents / ML / Reliable Systems
 
 ## Tech Stack
 
-Languages: "Python" · "C++" · "JavaScript" · "HTML" · "CSS" · "SQL"
+Languages: Python · C++ · JavaScript · HTML · CSS · SQL
 
-Core: "DSA" · "Git" · "GitHub"
+Core: DSA · Git · GitHub
 
 ## Recent Activity
 
