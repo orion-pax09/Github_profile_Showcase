@@ -15,9 +15,9 @@
 
 ## About Me
 
-Software engineer building practical solutions with ML.
+I’m a Software Engineering undergraduate focused on learning by building. I enjoy taking ideas apart, understanding how they work, and turning them into practical software. I’ve built projects using Python, C++, SQL, APIs, NumPy, and Pandas, while continuously strengthening my data structures, algorithms, and machine learning skills. I’m currently exploring AI, data, and software engineering while learning how to build useful systems from the ground up.
 
-My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works.
+I’m always learning through projects, documentation, and the work of other developers. I follow projects that I find interesting because they expose me to new ideas and ways of solving problems, and I genuinely appreciate the people who share what they build. My goal is to keep building, experimenting, and improving until I can create software that is not only technically solid, but genuinely useful.
 
 ## Current Focus
 
